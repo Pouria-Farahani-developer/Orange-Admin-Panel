@@ -1,10 +1,10 @@
 # OrangeAdminPanel
 
 💵 **From now on , you can entrust me with the accounts of your online store**
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p>
 <h3 align="center"> ☃ Help view the site </h3>
 
-https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991-971a-9d8cb6e58c05.mp4
+https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991-971a-9d8cb6e58c05.mp4 -->
  
 <h3 align="center"> 📸 Gallery </h3>
 
