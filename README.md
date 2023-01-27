@@ -18,23 +18,15 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
 
 ⚡ Be sure to turn on your VPN to view users' images
 
-⚠ You don't need to enter username and password, just click the login button
-
-⚠ I use your Local Storage for first Login because for second entry donot use enter user and password
-
-⚠ by click on username Jan Doe on each post, you can go to profile 
-
-- 📱 Responsive Web Design
-
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/IRANGRAM/)
 
 - 📤 You can download the project file In [master's Branch](https://github.com/Pouria-Farahani-developer/IRANGRAM/tree/master)
 
 - 👨‍💻 Developed by pouria farahani
 
-- 📆 Created - 2022-12-29
+- 📆 Created - 2023-01-27
 
-- 🤖 Technologies Used - Html , css , js , React.js 
+- 🤖 Technologies Used - Html , css , js , React.js , Mui(Material UI)
 
 - 🚧 Hooks & Package Used : useState , useEffect , React-Router-Dom
 
