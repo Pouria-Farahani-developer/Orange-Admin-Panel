@@ -1,4 +1,4 @@
-# IRANGRAM
+# OrangeAdminPanel
 
 🤡 **IRANGRAM social application (Demo OF Instagram)**
 <p>&nbsp;</p>
