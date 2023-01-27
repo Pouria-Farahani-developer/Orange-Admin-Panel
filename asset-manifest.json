@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Orange-Admin-Panel/static/css/main.f635cab4.css",
+    "main.js": "/Orange-Admin-Panel/static/js/main.18902ea1.js",
+    "index.html": "/Orange-Admin-Panel/index.html",
+    "main.f635cab4.css.map": "/Orange-Admin-Panel/static/css/main.f635cab4.css.map",
+    "main.18902ea1.js.map": "/Orange-Admin-Panel/static/js/main.18902ea1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f635cab4.css",
+    "static/js/main.18902ea1.js"
+  ]
+}
