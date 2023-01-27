@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
 
 ![profile](https://user-images.githubusercontent.com/109727844/215095551-3aff74e6-b74b-41ab-8c9e-c32f0819f8b1.jpg)
 
-![darkmodeirangram](https://user-images.githubusercontent.com/109727844/210005867-90a3c3d9-7219-4906-aa64-c180c35de3db.jpg)
+![New](https://user-images.githubusercontent.com/109727844/215096132-7c6d2b35-411a-4945-bb3a-d38238f50d34.jpg)
 
 ⚡ Be sure to turn on your VPN to view users' images
 
