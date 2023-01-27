@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
 
 ![list](https://user-images.githubusercontent.com/109727844/215095165-277f23e3-c5f4-460d-8ea6-1a673e90f33d.jpg)
 
-![profileirangram](https://user-images.githubusercontent.com/109727844/210005493-7124a6c3-e7b2-4668-ba8e-f1e37560de0f.jpg)
+![profile](https://user-images.githubusercontent.com/109727844/215095551-3aff74e6-b74b-41ab-8c9e-c32f0819f8b1.jpg)
 
 ![darkmodeirangram](https://user-images.githubusercontent.com/109727844/210005867-90a3c3d9-7219-4906-aa64-c180c35de3db.jpg)
 
