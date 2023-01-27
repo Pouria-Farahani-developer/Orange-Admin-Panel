@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
  
 <h3 align="center"> 📸 Gallery </h3>
 
-![loginirangram](https://user-images.githubusercontent.com/109727844/210005309-8c6a3244-1e0b-44a5-9ada-d8e8a494cc2e.jpg)
+![Main](https://user-images.githubusercontent.com/109727844/215094697-5f2e54f9-8095-4b9e-bb75-28d316f31fd6.jpg)
 
 ![irangram](https://user-images.githubusercontent.com/109727844/210005048-5e1a016a-6397-439d-a273-d209dfeff53d.jpg)
 
