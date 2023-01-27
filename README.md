@@ -18,9 +18,9 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
 
 ⚡ Be sure to turn on your VPN to view users' images
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/IRANGRAM/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Orange-Admin-Panel/#/)
 
-- 📤 You can download the project file In [master's Branch](https://github.com/Pouria-Farahani-developer/Orange-Admin-Panel/blob/master/README.md)
+- 📤 You can download the project file In [master's Branch](https://github.com/Pouria-Farahani-developer/Orange-Admin-Panel/blob/master)
 
 - 👨‍💻 Developed by pouria farahani
 
