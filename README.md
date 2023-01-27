@@ -1,6 +1,6 @@
 # OrangeAdminPanel
 
-🤡 **IRANGRAM social application (Demo OF Instagram)**
+🤡 **From now on, you can entrust me with the accounts of your online store**
 <p>&nbsp;</p>
 <h3 align="center"> ☃ Help view the site </h3>
 
